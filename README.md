@@ -1,6 +1,6 @@
 ### DEMO LINK
 <pre>
-  <a href=" https://tesla-live-demo.netlify.app/#">https://tesla-live-demo.netlify.app/#</a>
+  <a href=" https://tesla-live-demo.netlify.app/#" > https://tesla-live-demo.netlify.app/# </a>
 </pre>
 
 # React + Vite
