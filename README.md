@@ -15,3 +15,23 @@ React.js:  A JavaScript library for building user interfaces <br>
 HTML:  Markup language for structuring the web pages <br>
 CSS:  Stylesheet language for styling the web pages <br>
 Tailwind CSS:  A utility-first CSS framework for rapid UI development
+
+## 1. Installation
+<pre>
+  <a href="git clone https://github.com/yourusername/tesla-clone.git">git clone https://github.com/yourusername/tesla-clone.git/</a>
+</pre>
+
+## 2. Navigate to the project directory:
+
+<pre>
+  <a href="cd tesla-clone">cd tesla-clone</a>
+</pre>
+
+## Install the dependencies and start:
+
+<pre>
+  <a > npm install</a>
+  <a > npm start</a>
+</pre>
+
+
