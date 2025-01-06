@@ -13,10 +13,10 @@ This template provides a minimal setup to get React working in Vite with HMR and
 Currently, two official plugins are available:
 
 ## Technologies Used
-React.js:  A JavaScript library for building user interfaces. <br>
-HTML:  Markup language for structuring the web pages. <br>
-CSS:  Stylesheet language for styling the web pages. <br>
-Tailwind CSS:  A utility-first CSS framework for rapid UI development.
+React.js:  A JavaScript library for building user interfaces . <br>
+HTML:  Markup language for structuring the web pages . <br>
+CSS:  Stylesheet language for styling the web pages . <br>
+Tailwind CSS:  A utility-first CSS framework for rapid UI development .
 
 ## 1. Installation
 <pre>
